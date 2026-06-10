@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Louna CAZAUBON and I'm an IT student studying at IPI school in Blagnac.</p>
+<p align="left">My name is Louna CAZAUBON and I'm an IT student studying at IPI school in Blagnac. I'm currently looking for an apprenticeship for the rest of my studies. </p>
+
 
 ###
 
